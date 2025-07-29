@@ -14,7 +14,7 @@ By performing data analysis using Python, this project aims to provide valuable 
 ## ⚙️ Setup
 
 ### Reading update Data Frame
-
+![](
 
 ### Augmenting data woth additional columns
 
