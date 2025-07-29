@@ -17,7 +17,7 @@ By performing data analysis using Python, this project aims to provide valuable 
 ![](https://github.com/justnnik/Project-1-Sebaran-Jumlah-Sales-per-Region/blob/main/Data%20Frame%20Read.png?raw=true)
 
 ### Augmenting data with additional columns
-![] (raw=true)
+![](https://github.com/justnnik/Project-1-Sebaran-Jumlah-Sales-per-Region/blob/65eac7ad447ade602259f0dd6ae4ad043fd501e9/Columns%20Pertama.png?raw=true)
 
 ## 🧑🏻‍💻 Data Explore
 ### Which region had the best sales?
