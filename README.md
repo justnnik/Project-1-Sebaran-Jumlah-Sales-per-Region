@@ -14,7 +14,7 @@ By performing data analysis using Python, this project aims to provide valuable 
 ## ⚙️ Setup
 
 ### Reading update Data Frame
-![](Data Frame Read.pngraw=true)
+![](https://github.com/justnnik/Project-1-Sebaran-Jumlah-Sales-per-Region/blob/main/Data%20Frame%20Read.png?raw=true)
 
 ### Augmenting data woth additional columns
 
